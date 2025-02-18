@@ -11,4 +11,4 @@ MEDHANGSHI0708/MEDHANGSHI0708 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://leetcode.com/u/meduxx0708/)
+![](https://leetcard.jacoblin.cool/meduxx0708?ext=heatmap)
