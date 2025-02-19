@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @MEDHANGSHI0708
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Medhangshi!
+🚀 Passionate about AI, Machine Learning, and Geospatial Data Science.
+
+👀 I’m interested in:
+Deep Learning & Computer Vision
+Google Earth Engine (GEE) & Remote Sensing
+Large Language Models (LLMs) & NLP
+AI Agent building.
+🌱 I’m currently learning:
+Advanced LangChain for AI applications
+Generative AI
+Deep learning concepts
+Java & LeetCode for improving problem-solving skills
+💞️ I’m looking to collaborate on:
+AI-powered Projects
+Open-source ML & AI applications
+📫 How to reach me:
+📧 Email: code2modelxx@gmail.com
+💼 LinkedIn: [your LinkedIn profile]
+😄 Pronouns:
+She/Her
+⚡ Fun fact:
+I might lose once, but after that, it's my turn to win! 
+
 
 <!---
 MEDHANGSHI0708/MEDHANGSHI0708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
