@@ -25,7 +25,7 @@ AI-powered Projects
 Open-source ML & AI applications
 📫 How to reach me:
 📧 Email: code2modelxx@gmail.com
-💼 LinkedIn: [your LinkedIn profile]
+💼 LinkedIn: 
 
 
 
