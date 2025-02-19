@@ -6,19 +6,38 @@ Deep Learning & Computer Vision
 Google Earth Engine (GEE) & Remote Sensing
 Large Language Models (LLMs) & NLP
 AI Agent building.
+
+
+
+
 🌱 I’m currently learning:
 Advanced LangChain for AI applications
 Generative AI
 Deep learning concepts
 Java & LeetCode for improving problem-solving skills
+
+
+
+
+
 💞️ I’m looking to collaborate on:
 AI-powered Projects
 Open-source ML & AI applications
 📫 How to reach me:
 📧 Email: code2modelxx@gmail.com
 💼 LinkedIn: [your LinkedIn profile]
+
+
+
+
 😄 Pronouns:
 She/Her
+
+
+
+
+
+
 ⚡ Fun fact:
 I might lose once, but after that, it's my turn to win! 
 
