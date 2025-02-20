@@ -48,3 +48,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://leetcard.jacoblin.cool/meduxx0708?ext=heatmap)
+
+
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,r,tensorflow,sklearn,scala,pytorch,gcp,obsidian,matlab,vscode,arduino,flask&perline=3)](https://skillicons.dev)
