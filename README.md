@@ -1,5 +1,5 @@
 👋 Hi, I’m Medhangshi!
-🚀 Passionate about AI, Machine Learning, and Geospatial Data Science.
+🚀 Passionate about AI, Machine Learning, Data Science.
 
 👀 I’m interested in:
 Deep Learning & Computer Vision
