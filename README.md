@@ -55,4 +55,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
+#Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,r,tensorflow,sklearn,scala,pytorch,gcp,obsidian,matlab,vscode,arduino,flask&perline=3)](https://skillicons.dev)
